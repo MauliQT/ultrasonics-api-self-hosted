@@ -50,11 +50,13 @@ services:
 
       - SPOTIFY_CLIENT_ID=abc
       - SPOTIFY_CLIENT_SECRET=xyz
+      - SPOTIFY_REDIRECT_URI=http://localhost:8003/api/spotify/auth/
 
       - LASTFM_API_KEY=xyz
 
       - DEEZER_APP_ID=abc
       - DEEZER_APP_SECRET=xyz
+      - DEEZER_REDIRECT_URI=https://localhost:8003/api/deezer/auth
 ```
 
 <br/>
