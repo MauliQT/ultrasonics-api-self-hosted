@@ -37,7 +37,7 @@ Recommended usage: `docker-compose`
 version: "3.7"
 services:
   ultrasonics-api:
-    image: xdgfx/ultrasonics-api
+    image: mauliqt/ultrasonics-api:1.1
     container_name: ultrasonics-api
     restart: unless-stopped
 
