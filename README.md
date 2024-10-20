@@ -13,7 +13,7 @@ This is the source code for the ultrasonics-api proxy server. It's purpose is to
 
 
 ## **Installation** 
-Use Either make the image using the `Dockerfile`, or pull from the inofficial repo: `MauliQT/ultrasonics-api`.
+Either make the image using the `Dockerfile`, or pull from the inofficial repo: `MauliQT/ultrasonics-api`.
 
 Recommended usage: `docker-compose`
 ```yaml
