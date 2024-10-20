@@ -12,8 +12,8 @@ The offical API isn't working anymore and had some issues with deployment and ea
 This is the source code for the ultrasonics-api proxy server. It's purpose is to store private api keys for services such as Spotify, Deezer, and Last.fm, while providing an endpoint for ultrasonics to access those apis.
 
 
-## **Installation** Use 
-Either make the image using the `Dockerfile`, or pull from the inofficial repo: `MauliQT/ultrasonics-api`.
+## **Installation** 
+Use Either make the image using the `Dockerfile`, or pull from the inofficial repo: `MauliQT/ultrasonics-api`.
 
 Recommended usage: `docker-compose`
 ```yaml
