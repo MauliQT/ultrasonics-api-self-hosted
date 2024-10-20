@@ -2,6 +2,11 @@
 
 ---
 
+## **Important**
+
+The offical API isn't working anymore and had some issues with deployment and ease of use. This [mauliqt/ultrasonics-api](https://github.com/MauliQT/ultrasonics-api-self-hosted) alongside with [mauliqt/ultrasonics](https://github.com/MauliQT/ultrasonics-tidal) is working but with some issues, i havent been able to fix yet.
+
+
 ## The api proxy for ultrasonics.
 
 This is the source code for the ultrasonics-api proxy server. It's purpose is to store private api keys for services such as Spotify, Deezer, and Last.fm, while providing an endpoint for ultrasonics to access those apis.
